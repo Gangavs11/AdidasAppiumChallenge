@@ -1,0 +1,12 @@
+2021-06-17 20:34:52:277 [Appium] Welcome to Appium v1.21.0
+2021-06-17 20:34:52:278 [Appium] Non-default server args:
+2021-06-17 20:34:52:278 [Appium]   address: 127.0.0.1
+2021-06-17 20:34:52:278 [Appium]   logFile: C:\Users\Ganga\eclipse-workspace_jdk11\ShoppingApp.Adidas\AppiumLog.txt
+2021-06-17 20:34:52:278 [Appium]   localTimezone: true
+2021-06-17 20:34:52:317 [Appium] Appium REST http interface listener started on 127.0.0.1:4723
+2021-06-17 20:34:52:585 [HTTP] --> GET /wd/hub/status
+2021-06-17 20:34:52:585 [HTTP] {}
+2021-06-17 20:34:52:586 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2021-06-17 20:34:52:587 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.21.0"}}
+2021-06-17 20:34:52:594 [HTTP] <-- GET /wd/hub/status 200 7 ms - 68
+2021-06-17 20:34:52:594 [HTTP] 

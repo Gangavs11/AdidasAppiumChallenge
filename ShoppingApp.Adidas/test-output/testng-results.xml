@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-18T05:57:35 CEST" name="Suite" finished-at="2021-06-18T05:58:00 CEST" duration-ms="25453">
+    <groups>
+    </groups>
+    <test started-at="2021-06-18T05:57:35 CEST" name="Test" finished-at="2021-06-18T05:58:00 CEST" duration-ms="25453">
+      <class name="com.qa.tests.SampleTest">
+        <test-method is-config="true" signature="startSuite()[pri:0, instance:com.qa.tests.SampleTest@614ca7df]" started-at="2021-06-18T05:57:24 CEST" name="startSuite" finished-at="2021-06-18T05:57:35 CEST" duration-ms="11294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSuite -->
+        <test-method is-config="true" signature="startTest()[pri:0, instance:com.qa.tests.SampleTest@614ca7df]" started-at="2021-06-18T05:57:35 CEST" name="startTest" finished-at="2021-06-18T05:57:54 CEST" duration-ms="19616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="initiateDrivers()[pri:0, instance:com.qa.tests.SampleTest@614ca7df]" started-at="2021-06-18T05:57:54 CEST" name="initiateDrivers" finished-at="2021-06-18T05:57:55 CEST" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDrivers -->
+        <test-method signature="testMobAppShopping()[pri:0, instance:com.qa.tests.SampleTest@614ca7df]" started-at="2021-06-18T05:57:55 CEST" name="testMobAppShopping" finished-at="2021-06-18T05:58:00 CEST" duration-ms="5111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobAppShopping -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.tests.SampleTest@614ca7df]" started-at="2021-06-18T05:58:00 CEST" name="teardown" finished-at="2021-06-18T05:58:00 CEST" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.tests.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,23 @@
+2021-06-18 06:34:18,298 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-18 06:35:59,490 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shoppingApp.Adidas:ShoppingApp.Adidas:0.0.1-SNAPSHOT @ C:\Users\Ganga\eclipse_WS\ShoppingApp.Adidas\pom.xml.
+2021-06-18 06:35:59,490 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shoppingApp.Adidas:ShoppingApp.Adidas:0.0.1-SNAPSHOT @ C:\Users\Ganga\eclipse_WS\ShoppingApp.Adidas\pom.xml.
+2021-06-18 06:36:00,052 [Worker-12: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.aventstack:extentreports:jar:5.0.0-SNAPSHOT is missing, no dependency information available
+2021-06-18 06:36:00,052 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.aventstack:extentreports:jar:5.0.0-SNAPSHOT is missing, no dependency information available
+2021-06-18 06:36:01,161 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 06:36:01,161 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-06-18 06:36:01,177 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 06:36:01,177 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 06:36:02,818 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shoppingApp.Adidas:ShoppingApp.Adidas:0.0.1-SNAPSHOT @ C:\Users\Ganga\eclipse_WS\ShoppingApp.Adidas\pom.xml.
+2021-06-18 06:36:02,958 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.aventstack:extentreports:jar:5.0.0-SNAPSHOT is missing, no dependency information available
+2021-06-18 06:36:03,005 [Worker-12: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.aventstack:extentreports:jar:5.0.0-SNAPSHOT is missing, no dependency information available
+2021-06-18 06:36:03,271 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 06:36:03,271 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-06-18 06:36:03,286 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 06:36:03,286 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-18 06:36:04,569 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.aventstack:extentreports:jar:5.0.0-SNAPSHOT is missing, no dependency information available
+2021-06-18 06:36:04,663 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 06:36:04,663 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 06:36:04,663 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 06:36:04,663 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-18 06:36:17,449 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-18 06:36:17,449 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15415" started-at="2021-06-18T03:18:35 CEST" finished-at="2021-06-18T03:18:51 CEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15415" started-at="2021-06-18T03:18:35 CEST" finished-at="2021-06-18T03:18:51 CEST">
+      <class name="com.qa.tests.SampleTest">
+        <test-method status="PASS" signature="startSuite()[pri:0, instance:com.qa.tests.SampleTest@74ad1f1f]" name="startSuite" is-config="true" duration-ms="11256" started-at="2021-06-18T03:18:24 CEST" finished-at="2021-06-18T03:18:35 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSuite -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.qa.tests.SampleTest@74ad1f1f]" name="startTest" is-config="true" duration-ms="9434" started-at="2021-06-18T03:18:35 CEST" finished-at="2021-06-18T03:18:45 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="initiateDrivers()[pri:0, instance:com.qa.tests.SampleTest@74ad1f1f]" name="initiateDrivers" is-config="true" duration-ms="211" started-at="2021-06-18T03:18:45 CEST" finished-at="2021-06-18T03:18:45 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDrivers -->
+        <test-method status="PASS" signature="testMobAppShopping()[pri:0, instance:com.qa.tests.SampleTest@74ad1f1f]" name="testMobAppShopping" duration-ms="5156" started-at="2021-06-18T03:18:45 CEST" finished-at="2021-06-18T03:18:50 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobAppShopping -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.tests.SampleTest@74ad1f1f]" name="teardown" is-config="true" duration-ms="561" started-at="2021-06-18T03:18:50 CEST" finished-at="2021-06-18T03:18:51 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.tests.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

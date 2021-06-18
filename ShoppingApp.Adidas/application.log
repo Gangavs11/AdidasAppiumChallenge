@@ -1,0 +1,116 @@
+2021-06-18 05:57:35,298  INFO [main] devpinoyLogger:44 - Test Started successfully
+2021-06-18 05:57:35,300  INFO [main] devpinoyLogger:46 - Initializing the Config.properties file
+2021-06-18 05:57:35,301  INFO [main] devpinoyLogger:57 - Properties file loaded successfully:
+2021-06-18 05:57:54,897  INFO [main] devpinoyLogger:113 - Driver declared successfully : io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Users\Ganga\eclipse-workspace_jdk11\ShoppingApp.Adidas\src\test\resources\apps\app-debug.apk, appPackage=com.example.challenge, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, app=C:\Users\Ganga\eclipse-workspace_jdk11\ShoppingApp.Adidas\src\test\resources\apps\app-debug.apk, automationName=UiAutomator2, deviceName=Pixel_3a_API_29, newCommandTimeout=60, platformVersion=11, udid=emulator-5554}, deviceApiLevel=29, deviceManufacturer=Google, deviceModel=Android SDK built for x86, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2220, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=60, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=10, statBarHeight=66, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=66, width=1080, height=2022}, warnings={}, webStorageEnabled=false}
+2021-06-18 05:57:54,919  INFO [main] devpinoyLogger:89 - Initializing the Extent Report
+2021-06-18 05:57:56,084  INFO [main] devpinoyLogger:41 - Selected a product from the product list page
+2021-06-18 05:57:57,505  INFO [main] devpinoyLogger:49 - ADD REVIEW button clicked
+2021-06-18 05:57:58,173  INFO [main] devpinoyLogger:53 - review added
+2021-06-18 05:58:00,279  INFO [main] devpinoyLogger:58 - rating added
+2021-06-18 05:58:00,379  INFO [main] devpinoyLogger:62 - Save button clicked
+2021-06-18 05:58:00,784 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:00,786 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2021-06-18 05:58:00,788 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2021-06-18 05:58:00,788 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2021-06-18 05:58:00,789 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2021-06-18 05:58:00,847 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:00,849 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2021-06-18 05:58:00,850 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2021-06-18 05:58:00,851 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2021-06-18 05:58:00,851 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2021-06-18 05:58:00,951 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:00,952 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2021-06-18 05:58:00,953 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2021-06-18 05:58:00,954 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2021-06-18 05:58:00,954 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2021-06-18 05:58:00,966 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:00,967 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2021-06-18 05:58:00,968 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2021-06-18 05:58:00,969 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2021-06-18 05:58:00,970 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2021-06-18 05:58:00,973 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:00,974 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2021-06-18 05:58:00,974 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2021-06-18 05:58:00,975 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2021-06-18 05:58:00,975 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2021-06-18 05:58:00,977 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:00,978 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2021-06-18 05:58:00,979 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2021-06-18 05:58:00,980 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2021-06-18 05:58:00,980 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2021-06-18 05:58:00,987 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-18 05:58:00,988 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:00,989 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+2021-06-18 05:58:00,991 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2021-06-18 05:58:00,992 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2021-06-18 05:58:00,992 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2021-06-18 05:58:01,010 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,011 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2021-06-18 05:58:01,012 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2021-06-18 05:58:01,013 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2021-06-18 05:58:01,014 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2021-06-18 05:58:01,019 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2021-06-18 05:58:01,023 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2021-06-18 05:58:01,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2021-06-18 05:58:01,025 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2021-06-18 05:58:01,028 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2021-06-18 05:58:01,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2021-06-18 05:58:01,032 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2021-06-18 05:58:01,032 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2021-06-18 05:58:01,044 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,045 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2021-06-18 05:58:01,046 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2021-06-18 05:58:01,047 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2021-06-18 05:58:01,048 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2021-06-18 05:58:01,077 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,079 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2021-06-18 05:58:01,081 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2021-06-18 05:58:01,082 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2021-06-18 05:58:01,083 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2021-06-18 05:58:01,115 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+2021-06-18 05:58:01,117 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2021-06-18 05:58:01,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2021-06-18 05:58:01,118 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2021-06-18 05:58:01,125 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+2021-06-18 05:58:01,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2021-06-18 05:58:01,127 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2021-06-18 05:58:01,128 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2021-06-18 05:58:01,130 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,130 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+2021-06-18 05:58:01,131 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2021-06-18 05:58:01,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2021-06-18 05:58:01,132 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2021-06-18 05:58:01,134 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,135 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+2021-06-18 05:58:01,136 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2021-06-18 05:58:01,137 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2021-06-18 05:58:01,137 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2021-06-18 05:58:01,139 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,141 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+2021-06-18 05:58:01,142 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2021-06-18 05:58:01,143 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2021-06-18 05:58:01,144 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2021-06-18 05:58:01,148 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+2021-06-18 05:58:01,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2021-06-18 05:58:01,151 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2021-06-18 05:58:01,151 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2021-06-18 05:58:01,153 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,154 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2021-06-18 05:58:01,155 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2021-06-18 05:58:01,155 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2021-06-18 05:58:01,155 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2021-06-18 05:58:01,202 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,203 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2021-06-18 05:58:01,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2021-06-18 05:58:01,206 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2021-06-18 05:58:01,207 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2021-06-18 05:58:01,210 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-18 05:58:01,211 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2021-06-18 05:58:01,211 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2021-06-18 05:58:01,212 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2021-06-18 05:58:01,212 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Ganga/.m2/repository/com/aventstack/extentreports/5.0.5/extentreports-5.0.5.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
