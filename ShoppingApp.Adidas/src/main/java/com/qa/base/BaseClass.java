@@ -1,6 +1,7 @@
 package com.qa.base;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -45,8 +46,8 @@ public class BaseClass {
 
 		log.info("Initializing the Config.properties file");
 		// Path where Config.properties file is placed
-		String propertyFilePath = "C:\\Users\\Ganga\\eclipse-workspace_jdk11\\ShoppingApp.Adidas\\src\\main\\resources\\config.properties";
-
+		//String propertyFilePath = "C:\\Users\\Ganga\\eclipse-workspace_jdk11\\ShoppingApp.Adidas\\src\\main\\resources\\config.properties";
+		String propertyFilePath = System.getProperty("user.dir") + File.separator +"src"+ File.separator +"main"+File.separator+"resources"+File.separator+"config.properties";
 		BufferedReader reader;
 		try {
 			reader = new BufferedReader(new FileReader(propertyFilePath));
@@ -105,7 +106,9 @@ public class BaseClass {
 			caps.setCapability(MobileCapabilityType.DEVICE_NAME, properties.getProperty("deviceName"));
 			caps.setCapability(MobileCapabilityType.UDID, properties.getProperty("udid"));
 			caps.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 60);
-			caps.setCapability(MobileCapabilityType.APP, properties.getProperty("app"));
+			
+			String appUrl = System.getProperty("user.dir")+ File.separator+"src"+File.separator+"test"+File.separator+"resources"+File.separator+"apps"+File.separator+"app-debug.apk";
+			caps.setCapability(MobileCapabilityType.APP, appUrl);
 
 			URL url = new URL("http://localhost:4728/wd/hub");
 			driver = new AndroidDriver<MobileElement>(url, caps);
